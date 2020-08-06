@@ -5,6 +5,7 @@ public class gitJava {
 
         System.out.println("Love learning java, I think java is number one");
         
-        System.out.println("I love coding")
+        //System.out.println("I love coding");
+        
     }
 }
